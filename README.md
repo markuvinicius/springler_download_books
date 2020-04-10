@@ -48,7 +48,7 @@ Note: The programa will download all the books that exists at the first sheet of
 To run the program, follow the steps below.
 
 ```
-python3.7 main.py <path_to_source_file> <directory_to_save_downloaded_books>
+python3.7 src/main.py <path_to_source_file> <directory_to_save_downloaded_books>
 ```
 
 * The first argument `path_to_source_file` specify the absolute path to the source file that holds the books information
