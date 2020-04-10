@@ -58,6 +58,14 @@ Note: If the directory does not exists, the program will create it.
 Note2: The program will ovewrite the files if they already exists.
 
 
+## Deactivating Virtual Environment
+
+To deactivate virtualenv, type
+
+```
+deactivate
+```
+
 ## Built With
 
 * [Python 3.7](https://spring.io/projects/spring-boot) - The Java Web Framework User
