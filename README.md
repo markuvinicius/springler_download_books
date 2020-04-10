@@ -27,7 +27,7 @@ virtualenv -p python3.7 venv
 Activate the new Virtual Environment
 
 ```
-source venv/bin/activate.sh
+source venv/bin/activate
 ```
 
 Install the dependencies used in the project
