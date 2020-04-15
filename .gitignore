@@ -2,3 +2,4 @@ books
 .DS_Store
 src/__pycache__/*
 *.pyc
+venv
